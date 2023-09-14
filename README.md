@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" height = "45" width="45"/> , I'm Aditya Jadhav </h1>
-<h3 align="center">I am currently studying for BTech in Computer Engineering at JSPM's Rajarshi Shahu College of Engineering.</h3>
+<h3 align="center">I am currently studying BTech in Computer Engineering at JSPM's Rajarshi Shahu College of Engineering,pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavisawant101&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavisawant101" /> </p>
 
