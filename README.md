@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.postimg.cc/wTScVC4V/github-banner.png" alt="Aditya Jadhav | AI/ML Engineer" width="100%"/>
+</p>
+
 <h1 align="center">Hi <img alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" height = "45" width="45"/> , I'm Aditya Jadhav </h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
@@ -8,13 +13,12 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 B.Tech in **Computer Engineering** at JSPM's Rajarshi Shahu College of Engineering, Pune
-- 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**
-- 🔍 Skilled in building **end-to-end ML pipelines** – from data wrangling to deployment
-- 📚 Published Researcher in **Visual Sentiment Analysis** (*Springer LNNS, Scopus Indexed*)
-- 💡 Always curious to learn and contribute to **AI-driven innovations**
-- 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)
-- 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)
+- 🎓 B.Tech in **Computer Engineering** at JSPM's Rajarshi Shahu College of Engineering, Pune  
+- 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**  
+- 🔍 Skilled in building **end-to-end ML pipelines** – from data wrangling to deployment  
+- 📚 Published Researcher in **Visual Sentiment Analysis** (*Springer LNNS, Scopus Indexed*)  
+- 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
+- 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)  
 
 ---
 
@@ -23,6 +27,35 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,html,css,js,java" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,linux,vscode" />
 </p>
+
+---
+
+### 🏅 **Certifications**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-Certified-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20AI%20&%20ML-Certified-blue?style=for-the-badge&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Certified-purple?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Specialization-yellow?style=for-the-badge&logo=deeplearning.ai" />
+</p>
+
+---
+
+### 🚀 **Featured Projects**
+#### **Core Projects**
+| Project | Preview | GitHub |
+|---------|---------|--------|
+| **Visual Sentiment Analysis** | ![Preview](https://i.postimg.cc/XJfTQfQZ/VSA.png) | [Repo](https://github.com/adii-jadhav/Video-Sentiment-Analysis.git) |
+| **Traffic Lane Detection (SCNN)** | ![Preview](https://i.postimg.cc/SNNwfz8s/image.png) | [Repo](https://github.com/adii-jadhav/SCNN.git) |
+| **DragGAN Exploration & Implementation** | ![Preview](https://i.postimg.cc/NjKSWqdv/image.png) | [Repo](https://github.com/adii-jadhav/DragGAN.git) |
+| **Hand Gesture PC Volume Control** | ![Preview](https://i.postimg.cc/Hx4TVc8g/image.png) | [Repo](https://github.com/adii-jadhav/hand-Gesture-PC-Volume-Control.git) |
+
+#### **Additional Projects**
+| Project | Preview | GitHub |
+|---------|---------|--------|
+| **ShadeGAN** | ![Preview](https://i.postimg.cc/gJsgxNgK/image.png) | [Repo](https://github.com/adii-jadhav/ShadeGAN.git) |
+| **Audio Sentiment Analysis** | ![Preview](https://i.postimg.cc/kGsMh67c/image.png) | [Repo](https://github.com/adii-jadhav/Audio-Sentiment-Analysis.git) |
+| **Tripster - Expense Tracker** | ![Preview](https://i.postimg.cc/5NJF7LSw/image.png) | [Repo](https://github.com/adii-jadhav/tripster-trip-expense-calculator-tool-by-adii.git) |
+| **Web Development Mini Projects** | ![Preview](https://i.postimg.cc/Prb1T253/image.png) | [Repo](https://github.com/adii-jadhav/Web-Dev-Mini-Projects.git) |
 
 ---
 
@@ -44,18 +77,18 @@
 
 ---
 
-### 🚀 **Top Languages**
+### 🌟 **Activity Graph**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adii-jadhav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adii-jadhav&theme=react-dark" width="100%"/>
 </p>
 
 ---
 
-### 🏆 **Achievements**
-- 📖 Published Research Papers in **AI/ML & Sentiment Analysis**
-- ✅ Completed certifications in **Generative AI, ML, Data Science**
-- 🎯 Leadership roles in **Rotaract, TEDx, Astro Club**
+### 🐍 **Contribution Snake**
+<p align="center">
+  <img src="https://github.com/adii-jadhav/adii-jadhav/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-⭐ **Check out my portfolio:** [adityajadhav.online](https://adityajadhav.online)  
+⭐ **Check out my portfolio:** [adityajadhav.online](https://adityajadhav.online)
