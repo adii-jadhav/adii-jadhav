@@ -1,31 +1,56 @@
 <h1 align="center">Hi <img alt="GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" height="45" width="45"/> , I'm Aditya Jadhav</h1>
 
-<!-- ✅ Banner -->
+Welcome to my GitHub profile!
+
+[![Linkedin: Arya](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adi-jadhav)
+![ProfileViews](https://komarev.com/ghpvc/?username=adii-jadhav&label=Profile+Views)
+
 <p align="center">
-  <img src="https://i.postimg.cc/7ZwCf3tB/image.png" alt="Aditya Jadhav | AI/ML Engineer" width="100%"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="460" alt="Programming GIF">
 </p>
 
 <h3 align="center">AI/ML Engineer | Data Scientist | Generative AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adii-jadhav&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/adii-jadhav?style=for-the-badge&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/adii-jadhav?style=for-the-badge&color=green" alt="Followers" />
 </p>
 
 ---
 
-## 🌟 **About Me**
-- 🎓 B.Tech in **Computer Engineering** at JSPM's Rajarshi Shahu College of Engineering, Pune  
+<details>
+  <summary>✨ <b>About Me</b></summary>
+
+- 🎓 B.Tech in **Computer Engineering**  
 - 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**  
 - 🔍 Skilled in building **end-to-end ML pipelines** – from data wrangling to deployment  
 - 📚 Published Researcher in **Visual Sentiment Analysis** (*Springer LNNS, Scopus Indexed*)  
 - 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
 - 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)  
 
+</details>
+
 ---
 
 ## 🛠️ **Tech Stack**
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0E?style=flat-square&logo=jupyter&logoColor=white)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,html,css,js,java" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,linux,vscode" />
@@ -82,11 +107,6 @@
 
 ---
 
-## 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adii-jadhav/adii-jadhav/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ⭐ **Portfolio:** [adityajadhav.online](https://adityajadhav.online)
+
