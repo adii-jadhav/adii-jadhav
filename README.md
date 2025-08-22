@@ -18,8 +18,22 @@ Welcome to my GitHub profile!
 
 ---
 
-<details>
   <summary>✨ <b>About Me</b></summary>
+
+Hi, I'm **Aditya Jadhav** — an **AI/ML Engineer** and **Data Scientist** passionate about building intelligent systems that make data truly useful.  
+With hands-on experience in **Deep Learning**, **Computer Vision**, **NLP**, and **Generative AI**, I specialize in designing end-to-end solutions: from wrangling messy datasets to deploying scalable ML models in production.  
+
+Building complete **ML pipelines** — data prep, modeling, deployment — using **Python** and modern **MLOps practices**.
+
+As a **published researcher in Visual Sentiment Analysis**, I enjoy transforming complex ideas into clear insights and impactful applications.  
+Beyond code, I've also led initiatives in **Rotaract** and **TEDx**, honing my communication and leadership skills.
+
+🚀 **Currently open to full-time opportunities in Data & AI**, where I can apply my technical expertise and curiosity to solve meaningful problems.
+
+
+<details>
+
+  <summary>✨ <b>know more:</b></summary>
 
 - 🎓 B.Tech in **Computer Engineering**  
 - 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**  
@@ -78,6 +92,18 @@ Welcome to my GitHub profile!
 
 ---
 
+## 🐍 **Contribution Snake**
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## My Profile
+<div>
+  <a href="https://github.com/adii-jadhav"><img width="850px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adii-jadhav&theme=vision_friendly_dark"/></a>
+</div>
+
+---
+
 ## 📊 **GitHub Stats**
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=adii-jadhav&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -106,7 +132,6 @@ Welcome to my GitHub profile!
 </p>
 
 ---
-
 
 ⭐ **Portfolio:** [adityajadhav.online](https://adityajadhav.online)
 
