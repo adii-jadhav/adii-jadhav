@@ -43,26 +43,6 @@
 
 ---
 
-## 🚀 **Featured Projects**
-
-### **Core Projects**
-| Project | Preview | GitHub |
-|---------|---------|--------|
-| **Visual Sentiment Analysis** | ![Preview](https://i.postimg.cc/XJfTQfQZ/VSA.png) | [Repo](https://github.com/adii-jadhav/Video-Sentiment-Analysis.git) |
-| **Traffic Lane Detection (SCNN)** | ![Preview](https://i.postimg.cc/SNNwfz8s/image.png) | [Repo](https://github.com/adii-jadhav/SCNN.git) |
-| **DragGAN Exploration & Implementation** | ![Preview](https://i.postimg.cc/NjKSWqdv/image.png) | [Repo](https://github.com/adii-jadhav/DragGAN.git) |
-| **Hand Gesture PC Volume Control** | ![Preview](https://i.postimg.cc/Hx4TVc8g/image.png) | [Repo](https://github.com/adii-jadhav/hand-Gesture-PC-Volume-Control.git) |
-
-### **Additional Projects**
-| Project | Preview | GitHub |
-|---------|---------|--------|
-| **ShadeGAN** | ![Preview](https://i.postimg.cc/gJsgxNgK/image.png) | [Repo](https://github.com/adii-jadhav/ShadeGAN.git) |
-| **Audio Sentiment Analysis** | ![Preview](https://i.postimg.cc/kGsMh67c/image.png) | [Repo](https://github.com/adii-jadhav/Audio-Sentiment-Analysis.git) |
-| **Tripster - Expense Tracker** | ![Preview](https://i.postimg.cc/5NJF7LSw/image.png) | [Repo](https://github.com/adii-jadhav/tripster-trip-expense-calculator-tool-by-adii.git) |
-| **Web Development Mini Projects** | ![Preview](https://i.postimg.cc/Prb1T253/image.png) | [Repo](https://github.com/adii-jadhav/Web-Dev-Mini-Projects.git) |
-
----
-
 ## 🔗 **Connect With Me**
 <p align="center">
   <a href="https://github.com/adii-jadhav"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" /></a>
