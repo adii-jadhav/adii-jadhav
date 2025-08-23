@@ -33,7 +33,7 @@ Beyond code, I've also led initiatives in **Rotaract** and **TEDx**, honing my c
 
 <details>
 
-  <summary>✨ <b>know more:</b></summary>
+  <summary>✨ <b> to the point👇🏼:</b></summary>
 
 - 🎓 B.Tech in **Computer Engineering**  
 - 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**  
