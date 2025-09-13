@@ -30,7 +30,7 @@ Beyond code, I've also led initiatives in **Rotaract** and **TEDx**, honing my c
 
 🚀 **Currently open to full-time opportunities in Data & AI**, where I can apply my technical expertise and curiosity to solve meaningful problems.
 
-- 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
+- 📫 **Reach out to me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
 - 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)  
 
 <details>
