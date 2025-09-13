@@ -30,17 +30,17 @@ Beyond code, I've also led initiatives in **Rotaract** and **TEDx**, honing my c
 
 🚀 **Currently open to full-time opportunities in Data & AI**, where I can apply my technical expertise and curiosity to solve meaningful problems.
 
+- 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
+- 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)  
 
 <details>
 
-  <summary>✨ <b> to the point👇🏼:</b></summary>
+  <summary>✨ <b> more👇🏼:</b></summary>
 
 - 🎓 B.Tech in **Computer Engineering**  
 - 🤖 Passionate about **AI, ML, NLP, Computer Vision, and Generative AI**  
 - 🔍 Skilled in building **end-to-end ML pipelines** – from data wrangling to deployment  
 - 📚 Published Researcher in **Visual Sentiment Analysis** (*Springer LNNS, Scopus Indexed*)  
-- 📫 **Reach me at:** [adijadhav1920@gmail.com](mailto:adijadhav1920@gmail.com)  
-- 🌐 **Portfolio:** [adityajadhav.online](https://adityajadhav.online)  
 
 </details>
 
